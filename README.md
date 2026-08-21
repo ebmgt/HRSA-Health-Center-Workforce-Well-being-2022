@@ -129,7 +129,7 @@ Short URL: [https://EBMgt.github.io/HRSA-Well-being](https://EBMgt.github.io/HRS
   </tbody>
 </table>
 
-<p><small><i>* These values are calculated after 1) all sixteen OLBI survey items have each been subtracted from 7 to reverse their values on a six point scale, then the mean of the values if the respondent answered at least eleven of the sixteen OLBI items.</i><br><i>† Approximate weighted mean of the non-male gender categories in the 2022 report PDF (<a href="../master/Files-HRSA">local copy of the report</a>); these means were rounded.</i></small></p>
+<p><small><i>* These values are calculated after 1) all sixteen OLBI survey items have each been subtracted from 7 to reverse their values on a six point scale, then the mean of the values if the respondent answered at least eleven of the sixteen OLBI items.</i><br><i>† Approximate weighted mean of the non-male gender categories in the 2022 report PDF (<a href="../../tree/main/Files-HRSA">local copy of the report</a>); these means were rounded.</i></small></p>
 
 <h3>5. Detailed CSV burnout results by gender</h3>
 
@@ -177,10 +177,10 @@ Short URL: [https://EBMgt.github.io/HRSA-Well-being](https://EBMgt.github.io/HRS
   * https://web.archive.org/web/20260000000000*/https://data.hrsa.gov/data/dashboards
   * * https://web.archive.org/web/20250123185618/https://data.hrsa.gov/topics/health-centers/workforce-well-being (archive date January 23, 2025)
 * Copies in this repository
-  * [Files-HRSA](../master/Files-HRSA)
+  * [Files-HRSA](../../tree/main/Files-HRSA)
 
 ## Validity assessment of datafiles - R code to reproduce the tables on this page:
-*  [Files-R](../master/Files-R)
+*  [Files-R](../../tree/main/Files-R)
 
 [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
